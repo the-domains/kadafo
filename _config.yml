@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.1364281
+  lightness: 0.05491833
+  brandStrength: 0.5394265
+  brandColors:
+    - '#000000'
+    - '#FFFFFF'
+    - '#626262'
+    - '#2F2F2F'
+    - '#979797'
+  rhythmicContrast: 0.3978495
+typography_spectrum: 0.09677419
+name: kadafo
